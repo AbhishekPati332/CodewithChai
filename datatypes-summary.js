@@ -17,7 +17,8 @@
 // let x = 10; // x is now a number
 // x = "Hello"; // x is now a string
 // x = true; // x is now a boolean
-// On the other hand, statically typed languages require you to declare the variable's type explicitly, and the type checking is done at compile-time, before the code is executed.
+// On the other hand, statically typed languages require you to declare 
+// the variable's type explicitly, and the type checking is done at compile-time, before the code is executed.
 
 const score = 100
 const scoreValue = 100.3

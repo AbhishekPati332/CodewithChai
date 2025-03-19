@@ -1,1 +1,3 @@
-console.log(userOne.email);
+newDate.toLocalString('default' , {
+//     weekday: "long",
+// })
