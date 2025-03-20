@@ -28,3 +28,6 @@ console.log(newDate.getDay());
 // newDate.toLocalString('default' , {
 //     weekday: "long",
 // })
+
+
+
